@@ -14,7 +14,7 @@ namespace ConsoleApp1
         {
 
             Program2 orange = new Program2();
-            Console.WriteLine(orange.Gematria("universe"));
+            Console.WriteLine(orange.Gematria("u"));
             Console.ReadLine();
         }
         public int Gematria(string word)
